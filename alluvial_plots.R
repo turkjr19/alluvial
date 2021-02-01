@@ -2,7 +2,7 @@ library(tidyverse)
 library(ggalluvial)
 library(RColorBrewer)
 
-# Load in previously cleaned data from pick224.com
+# Load in previously cleaned data from OHL scrape
 my_data <- read_csv("~/Documents/hockey/OHL_OIR/my_data.csv")
 
 # create data frame based on team and goal scorer
