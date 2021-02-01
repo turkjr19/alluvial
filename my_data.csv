@@ -1,0 +1,515 @@
+"game_id","date_played","home","home_score","visitor","visitor_score","event","period_id","time","situation","game_winning","penalty_shot","x_location","y_location","scoring_team","goal.scorer","assist1","assist2"
+24056,2019-09-20,"SOO",6,"FLNT",3,"goal",1,"2:48","EV",0,0,83,139,"SOO","Marc Boudreau","Alex Johnston","Dominic Mufarreh"
+24056,2019-09-20,"SOO",6,"FLNT",3,"goal",1,"14:12","PP",0,0,93,149,"SOO","Tye Kartye","Robert Calisti","Jacob LeGuerrier"
+24056,2019-09-20,"SOO",6,"FLNT",3,"goal",2,"4:38","EV",0,0,605,187,"SOO","Cullen McLean","Cole MacKay","Tanner Dickinson"
+24056,2019-09-20,"SOO",6,"FLNT",3,"goal",2,"5:54","EV",0,0,128,229,"FLNT","Jake Durham","Cody Morgan",NA
+24056,2019-09-20,"SOO",6,"FLNT",3,"goal",2,"6:11","EV",0,0,107,215,"FLNT","Connor Roberts","Jake Durham","Evgeniy Oksentyuk"
+24056,2019-09-20,"SOO",6,"FLNT",3,"goal",2,"10:22","PP",1,0,531,259,"SOO","Ryan O'Rourke","Jaromir Pytlik","Ryan Roth"
+24056,2019-09-20,"SOO",6,"FLNT",3,"goal",3,"1:18","EV",0,0,184,213,"SOO","Holden Wale","Jaromir Pytlik",NA
+24056,2019-09-20,"SOO",6,"FLNT",3,"goal",3,"9:01","EV",0,0,620,223,"FLNT","Cody Morgan","Dennis Busby","Ethan Keppen"
+24056,2019-09-20,"SOO",6,"FLNT",3,"goal",3,"13:14","EV",0,0,99,147,"SOO","Cullen McLean","Cole MacKay","Tanner Dickinson"
+24062,2019-09-21,"SAG",1,"FLNT",4,"goal",1,"15:45","EV",0,0,159,134,"SAG","Cole Coskey","Camaryn Baber","Ilya Solovyov"
+24062,2019-09-21,"SAG",1,"FLNT",4,"goal",1,"19:29","EV",0,0,613,196,"FLNT","Jake Durham","Evgeniy Oksentyuk","Dennis Busby"
+24062,2019-09-21,"SAG",1,"FLNT",4,"goal",2,"8:23","EV",1,0,52,151,"FLNT","Jake Durham","Connor Roberts",NA
+24062,2019-09-21,"SAG",1,"FLNT",4,"goal",3,"5:54","EV",0,0,651,243,"FLNT","Brennan Othmann","Evan Vierling","Hunter Holmes"
+24062,2019-09-21,"SAG",1,"FLNT",4,"goal",3,"19:51","EN",0,0,611,159,"FLNT","Jake Durham","Vladislav Kolyachonok","Connor Roberts"
+24079,2019-09-28,"FLNT",3,"NIAG",2,"goal",1,"2:08","EV",0,0,56,199,"FLNT","Evgeniy Oksentyuk","Evan Vierling","Connor Roberts"
+24079,2019-09-28,"FLNT",3,"NIAG",2,"goal",1,"6:15","EV",0,0,67,139,"FLNT","Connor Roberts","Evan Vierling","Evgeniy Oksentyuk"
+24079,2019-09-28,"FLNT",3,"NIAG",2,"goal",1,"11:52","PP",0,0,649,209,"NIAG","Oliver Castleman","Kyen Sopa","Philip Tomasino"
+24079,2019-09-28,"FLNT",3,"NIAG",2,"goal",3,"8:15","EV",0,0,661,189,"NIAG","Jackson Doherty","Kyen Sopa","Philip Tomasino"
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",1,"2:10","EV",0,0,157,119,"FLNT","Cody Morgan","Dennis Busby","Michael Bianconi"
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",1,"13:19","EV",0,0,164,194,"FLNT","Vladislav Kolyachonok","Evan Vierling","Connor Roberts"
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",1,"15:15","PP",0,0,57,206,"FLNT","Ty Dellandrea","Riley McCourt",NA
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",1,"18:01","EV",0,0,72,214,"FLNT","Brennan Othmann","Ty Dellandrea","Riley McCourt"
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",2,"7:04","PP",0,0,56,143,"SAR","Brayden Guy","Jacob Perreault","Eric Hjorth"
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",2,"7:32","SH",0,0,620,164,"FLNT","Ethan Keppen",NA,NA
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",2,"8:26","PP",0,0,70,157,"SAR","Jacob Perreault","Eric Hjorth","Sean Josling"
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",2,"12:55","EV",1,0,624,231,"FLNT","Ethan Keppen","Braeden Kressler","Tyler Deline"
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",2,"13:49","EV",0,0,60,132,"SAR","Sean Josling","Calvin Martin","Colton Kammerer"
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",2,"18:13","EV",0,0,122,178,"SAR","Eric Hjorth","Sean Josling","Calvin Martin"
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",3,"5:29","EV",0,0,63,143,"FLNT","Evan Vierling","Evgeniy Oksentyuk","Marcus Gretz"
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",3,"6:43","SH",0,0,624,184,"SAR","Calvin Martin","Sean Josling",NA
+24083,2019-09-29,"FLNT",8,"SAR",5,"goal",3,"7:49","PP",0,0,73,173,"FLNT","Evgeniy Oksentyuk","Evan Vierling","Vladislav Kolyachonok"
+24092,2019-10-04,"GUE",3,"FLNT",4,"goal",1,"9:04","PP",0,0,490,302,"GUE","Daniil Chayka","Pavel Gogolev","Eric Uba"
+24092,2019-10-04,"GUE",3,"FLNT",4,"goal",2,"2:00","EV",0,0,52,162,"GUE","Jacob Roach","Eric Uba","Andrei Bakanov"
+24092,2019-10-04,"GUE",3,"FLNT",4,"goal",2,"2:41","EV",0,0,580,145,"FLNT","Evgeniy Oksentyuk","Connor Roberts",NA
+24092,2019-10-04,"GUE",3,"FLNT",4,"goal",3,"2:11","PP",0,0,61,187,"FLNT","Connor Roberts","Vladislav Kolyachonok","Brennan Othmann"
+24092,2019-10-04,"GUE",3,"FLNT",4,"goal",3,"11:12","EV",0,0,110,75,"FLNT","Jake Durham","Ty Dellandrea","Brennan Othmann"
+24092,2019-10-04,"GUE",3,"FLNT",4,"goal",3,"18:14","EV",0,0,487,156,"GUE","Daniil Chayka","Fedor Gordeev","Pavel Gogolev"
+24092,2019-10-04,"GUE",3,"FLNT",4,"goal",4,"2:56","EV",1,0,91,166,"FLNT","Riley McCourt","Evgeniy Oksentyuk","Anthony Popovich"
+24102,2019-10-05,"OS",7,"FLNT",3,"goal",1,"1:03","EV",0,0,612,128,"OS","Matthew Philip","Brady Lyle","Carter Robertson"
+24102,2019-10-05,"OS",7,"FLNT",3,"goal",1,"4:24","EV",0,0,554,130,"OS","Kaleb Pearson","Brady Lyle","Barret Kirwin"
+24102,2019-10-05,"OS",7,"FLNT",3,"goal",1,"10:56","PP",0,0,98,140,"FLNT","Riley McCourt","Cody Morgan","Ty Dellandrea"
+24102,2019-10-05,"OS",7,"FLNT",3,"goal",1,"16:08","SH",0,0,615,130,"OS","Adam McMaster","Aidan Dudas",NA
+24102,2019-10-05,"OS",7,"FLNT",3,"goal",2,"4:51","EV",0,0,626,141,"FLNT","Ty Dellandrea","Jack Wismer","Emmet Pierce"
+24102,2019-10-05,"OS",7,"FLNT",3,"goal",2,"10:01","PP",1,0,67,190,"OS","Kirill Nizhnikov","Carter Robertson","Barret Kirwin"
+24102,2019-10-05,"OS",7,"FLNT",3,"goal",2,"14:03","EV",0,0,146,217,"OS","Kirill Nizhnikov","Ethan Burroughs","Adam McMaster"
+24102,2019-10-05,"OS",7,"FLNT",3,"goal",3,"2:00","EV",0,0,99,110,"FLNT","Braeden Kressler","Brennan Othmann","Ty Dellandrea"
+24102,2019-10-05,"OS",7,"FLNT",3,"goal",3,"8:04","EV",0,0,629,168,"OS","Sergey Popov","Aidan Dudas","Sam Sedley"
+24102,2019-10-05,"OS",7,"FLNT",3,"goal",3,"10:08","PP",0,0,609,141,"OS","Aidan Dudas","Adam McMaster","Sergey Popov"
+24124,2019-10-12,"FLNT",6,"PBO",2,"goal",1,"2:06","EV",0,0,223,135,"FLNT","Dennis Busby","Brennan Othmann","Ethan Keppen"
+24124,2019-10-12,"FLNT",6,"PBO",2,"goal",1,"3:20","EV",0,0,179,199,"PBO","Declan Chisholm","Semyon Der-Arguchintsev",NA
+24124,2019-10-12,"FLNT",6,"PBO",2,"goal",2,"0:33","EV",0,0,639,159,"FLNT","Ty Dellandrea","Braeden Kressler","Jake Durham"
+24124,2019-10-12,"FLNT",6,"PBO",2,"goal",2,"9:14","EV",1,0,650,161,"FLNT","Cody Morgan","Evan Vierling","Dennis Busby"
+24124,2019-10-12,"FLNT",6,"PBO",2,"goal",2,"13:22","EV",0,0,617,41,"FLNT","Jack Phibbs","Riley McCourt","Jack Harper"
+24124,2019-10-12,"FLNT",6,"PBO",2,"goal",2,"15:26","PP",0,0,162,105,"PBO","Zach Gallant","Nick Robertson","Declan Chisholm"
+24124,2019-10-12,"FLNT",6,"PBO",2,"goal",2,"19:03","EV",0,0,642,216,"FLNT","Brennan Othmann","Cody Morgan","Vladislav Kolyachonok"
+24124,2019-10-12,"FLNT",6,"PBO",2,"goal",3,"15:28","EV",0,0,144,194,"FLNT","Braeden Kressler","Jake Durham",NA
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",1,"4:18","EV",0,0,72,183,"FLNT","Vladislav Kolyachonok","Evgeniy Oksentyuk","Evan Vierling"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",1,"10:44","PP",0,0,638,193,"WSR","Egor Afanasyev","Cole Purboo","Will Cuylle"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",1,"15:18","PP",0,0,57,220,"FLNT","Jake Durham","Riley McCourt","Evgeniy Oksentyuk"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",2,"1:14","EV",0,0,72,163,"WSR","Kyle McDonald","Will Cuylle","Jean-Luc Foudy"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",2,"6:25","EV",0,0,97,239,"WSR","Curtis Douglas","Daniel D'Amico","Dylan Robinson"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",2,"14:32","EV",0,0,624,216,"FLNT","Owen Lalonde","Evgeniy Oksentyuk","Riley McCourt"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",2,"19:24","EV",0,0,554,70,"FLNT","Ty Dellandrea","Riley McCourt","Owen Lalonde"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",2,"19:54","PP",0,0,164,61,"WSR","Egor Afanasyev","Ruben Rafkin","Tyler Angle"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",3,"2:09","EV",0,0,637,216,"WSR","Luke Boka","Daniel D'Amico","Grayson Ladd"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",3,"2:58","PP",1,0,634,190,"WSR","Cole Purboo","Egor Afanasyev","Tyler Angle"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",3,"12:20","EV",0,0,67,96,"FLNT","Vladislav Kolyachonok","Ethan Keppen","Evgeniy Oksentyuk"
+24138,2019-10-17,"WSR",7,"FLNT",5,"goal",3,"19:17","EN",0,0,588,119,"WSR","Tyler Angle","Curtis Douglas",NA
+24141,2019-10-18,"KIT",3,"FLNT",4,"goal",1,"8:19","EV",0,0,88,211,"FLNT","Riley McCourt","Braeden Kressler","Ethan Keppen"
+24141,2019-10-18,"KIT",3,"FLNT",4,"goal",1,"12:31","EV",0,0,561,321,"KIT","Jonathan Yantsis","Donovan Sebrango","Justin MacPherson"
+24141,2019-10-18,"KIT",3,"FLNT",4,"goal",2,"0:41","PP",0,0,51,164,"KIT","Jonathan Yantsis","Riley Damiani","Donovan Sebrango"
+24141,2019-10-18,"KIT",3,"FLNT",4,"goal",2,"14:38","PP",0,0,545,294,"FLNT","Brennan Othmann","Riley McCourt","Ty Dellandrea"
+24141,2019-10-18,"KIT",3,"FLNT",4,"goal",3,"11:41","EV",0,0,77,198,"FLNT","Evan Vierling","Cody Morgan",NA
+24141,2019-10-18,"KIT",3,"FLNT",4,"goal",3,"14:14","EV",0,0,623,222,"KIT","Ville Ottavainen",NA,NA
+24141,2019-10-18,"KIT",3,"FLNT",4,"goal",4,"2:00","EV",1,0,85,190,"FLNT","Vladislav Kolyachonok","Cody Morgan","Ethan Keppen"
+24149,2019-10-19,"FLNT",6,"NB",3,"goal",2,"10:22","EV",0,0,548,221,"FLNT","Jack Wismer","Emmet Pierce","Tyler Deline"
+24149,2019-10-19,"FLNT",6,"NB",3,"goal",2,"11:47","EV",0,0,71,201,"NB","Matthew Struthers","Kyle Jackson","Mitchell Russell"
+24149,2019-10-19,"FLNT",6,"NB",3,"goal",2,"14:12","EV",0,0,611,183,"FLNT","Jack Wismer","Ty Dellandrea","Riley McCourt"
+24149,2019-10-19,"FLNT",6,"NB",3,"goal",2,"15:17","EV",0,0,147,122,"NB","Matthew Struthers","Brandon Coe",NA
+24149,2019-10-19,"FLNT",6,"NB",3,"goal",3,"3:22","EV",0,0,59,220,"FLNT","Jake Durham","Emmet Pierce","Jack Phibbs"
+24149,2019-10-19,"FLNT",6,"NB",3,"goal",3,"7:51","EV",1,0,36,289,"FLNT","Evgeniy Oksentyuk","Owen Lalonde","Ty Dellandrea"
+24149,2019-10-19,"FLNT",6,"NB",3,"goal",3,"15:08","EV",0,0,105,185,"FLNT","Ty Dellandrea","Evgeniy Oksentyuk","Jake Durham"
+24149,2019-10-19,"FLNT",6,"NB",3,"goal",3,"18:11","EV",0,0,592,188,"NB","Kyle Jackson","Paul Christopoulos","Brad Chenier"
+24149,2019-10-19,"FLNT",6,"NB",3,"goal",3,"18:25","EV",0,0,87,203,"FLNT","Ethan Keppen","Cody Morgan","Braeden Kressler"
+24164,2019-10-25,"FLNT",5,"SBY",2,"goal",1,"7:28","EV",0,0,167,227,"FLNT","Ethan Keppen","Cody Morgan",NA
+24164,2019-10-25,"FLNT",5,"SBY",2,"goal",1,"9:11","EV",0,0,143,132,"FLNT","Jack Wismer","Connor Roberts",NA
+24164,2019-10-25,"FLNT",5,"SBY",2,"goal",1,"19:13","EV",1,0,63,191,"FLNT","Jack Phibbs","Hunter Holmes","Dennis Busby"
+24164,2019-10-25,"FLNT",5,"SBY",2,"goal",2,"7:09","EV",0,0,56,194,"SBY","Blake Murray","Owen Gilhula",NA
+24164,2019-10-25,"FLNT",5,"SBY",2,"goal",2,"18:44","EV",0,0,97,184,"SBY","Owen Robinson","Macauley Carson","Blake Murray"
+24164,2019-10-25,"FLNT",5,"SBY",2,"goal",3,"7:14","PP",0,0,147,104,"FLNT","Jake Durham","Riley McCourt","Ty Dellandrea"
+24164,2019-10-25,"FLNT",5,"SBY",2,"goal",3,"19:15","EN",0,0,197,107,"FLNT","Ty Dellandrea",NA,NA
+24173,2019-10-26,"FLNT",4,"SOO",1,"goal",1,"7:28","EV",0,0,88,233,"FLNT","Brennan Othmann","Jack Wismer","Connor Roberts"
+24173,2019-10-26,"FLNT",4,"SOO",1,"goal",2,"14:32","EV",1,0,586,144,"FLNT","Jack Phibbs","Jack Wismer","Vladislav Kolyachonok"
+24173,2019-10-26,"FLNT",4,"SOO",1,"goal",2,"17:59","EV",0,0,65,211,"SOO","Jaden Peca","Rory Kerins","Tye Kartye"
+24173,2019-10-26,"FLNT",4,"SOO",1,"goal",3,"18:15","EN",0,0,191,123,"FLNT","Jack Wismer","Connor Roberts",NA
+24173,2019-10-26,"FLNT",4,"SOO",1,"goal",3,"18:27","EN",0,0,224,89,"FLNT","Jack Phibbs","Jake Durham",NA
+24186,2019-10-30,"OS",3,"FLNT",4,"goal",1,"11:42","EV",0,0,585,173,"OS","Deni Goure","Sergey Popov","Aidan Dudas"
+24186,2019-10-30,"OS",3,"FLNT",4,"goal",2,"3:30","PP",0,0,115,157,"OS","Aidan Dudas","Sergey Popov","Brady Lyle"
+24186,2019-10-30,"OS",3,"FLNT",4,"goal",3,"0:48","EV",0,0,117,190,"FLNT","Evgeniy Oksentyuk",NA,NA
+24186,2019-10-30,"OS",3,"FLNT",4,"goal",3,"5:49","EV",0,0,226,108,"FLNT","Riley McCourt",NA,NA
+24186,2019-10-30,"OS",3,"FLNT",4,"goal",3,"8:42","EV",0,0,634,149,"OS","Aidan Dudas","Daylon Groulx","Sergey Popov"
+24186,2019-10-30,"OS",3,"FLNT",4,"goal",3,"19:50","EV",0,0,61,211,"FLNT","Ty Dellandrea","Evgeniy Oksentyuk","Vladislav Kolyachonok"
+24186,2019-10-30,"OS",3,"FLNT",4,"goal",4,"1:45","EV",1,0,81,206,"FLNT","Evgeniy Oksentyuk",NA,NA
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",1,"0:32","EV",0,0,70,210,"SAR","Kelton Hatcher","Jamieson Rees","Ryan Roth"
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",1,"4:29","PP",0,0,558,199,"FLNT","Dennis Busby","Luke Cavallin",NA
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",1,"15:26","EV",0,0,56,251,"SAR","Sean Josling","Jamieson Rees","Ryan Roth"
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",2,"4:20","EV",0,0,72,165,"FLNT","Evgeniy Oksentyuk","Vladislav Kolyachonok","Emmet Pierce"
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",2,"9:48","PP",0,0,652,178,"SAR","Sean Josling",NA,NA
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",2,"17:21","EV",0,0,619,201,"SAR","Sam Bitten",NA,NA
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",2,"19:55","EV",0,0,95,147,"FLNT","Jack Wismer","Riley McCourt",NA
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",3,"3:13","EV",0,0,609,136,"FLNT","Ethan Keppen","Ty Dellandrea","Owen Lalonde"
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",3,"10:42","EV",0,0,91,182,"SAR","Sean Josling","Jamieson Rees",NA
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",3,"11:28","SH",0,0,558,170,"FLNT","Connor Roberts",NA,NA
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",3,"18:33","EV",1,0,86,176,"SAR","Ryan Roth","Jamieson Rees",NA
+24195,2019-11-01,"SAR",7,"FLNT",5,"goal",3,"19:43","EN",0,0,196,228,"SAR","Ryan Roth",NA,NA
+24197,2019-11-02,"FLNT",1,"BAR",5,"goal",1,"5:56","EV",0,0,579,236,"BAR","Riley Piercey","Jacob Frasca","Tyler Tucker"
+24197,2019-11-02,"FLNT",1,"BAR",5,"goal",1,"7:00","EV",1,0,608,197,"BAR","Jacob Tortora","Nicholas Porco","Ian Lemieux"
+24197,2019-11-02,"FLNT",1,"BAR",5,"goal",1,"7:36","EV",0,0,589,156,"BAR","Aidan Brown","Riley Piercey","Jacob Frasca"
+24197,2019-11-02,"FLNT",1,"BAR",5,"goal",1,"9:04","EV",0,0,621,164,"BAR","Victor Hadfield",NA,NA
+24197,2019-11-02,"FLNT",1,"BAR",5,"goal",1,"10:43","SH",0,0,65,187,"FLNT","Jack Phibbs","Ty Dellandrea","Dennis Busby"
+24197,2019-11-02,"FLNT",1,"BAR",5,"goal",3,"12:31","EV",0,0,632,173,"BAR","Tyson Foerster","Mathew Hill","Tyler Tucker"
+24208,2019-11-08,"FLNT",5,"MISS",3,"goal",1,"6:20","EV",0,0,569,182,"MISS","Thomas Harley","Aidan Prueter","Max Dodig"
+24208,2019-11-08,"FLNT",5,"MISS",3,"goal",1,"16:16","EV",0,0,642,204,"MISS","Nick Isaacson","Richard Whittaker","Nicholas Canade"
+24208,2019-11-08,"FLNT",5,"MISS",3,"goal",1,"18:36","EV",0,0,461,293,"MISS","Nicholas Canade","Cole Schwindt","Richard Whittaker"
+24208,2019-11-08,"FLNT",5,"MISS",3,"goal",2,"18:00","PP",0,0,628,177,"FLNT","Riley McCourt","Jake Durham","Cody Morgan"
+24208,2019-11-08,"FLNT",5,"MISS",3,"goal",2,"19:15","EV",0,0,579,153,"FLNT","Riley McCourt","Evan Vierling","Connor Roberts"
+24208,2019-11-08,"FLNT",5,"MISS",3,"goal",3,"7:51","EV",0,0,99,169,"FLNT","Connor Roberts","Owen Lalonde","Ty Dellandrea"
+24208,2019-11-08,"FLNT",5,"MISS",3,"goal",3,"16:54","PS",1,1,NA,NA,"FLNT","Evgeniy Oksentyuk",NA,NA
+24208,2019-11-08,"FLNT",5,"MISS",3,"goal",3,"18:45","EN",0,0,81,186,"FLNT","Ethan Keppen","Jack Phibbs",NA
+24216,2019-11-09,"FLNT",3,"SOO",2,"goal",1,"0:57","EV",0,0,120,96,"FLNT","Jake Durham","Vladislav Kolyachonok","Jack Phibbs"
+24216,2019-11-09,"FLNT",3,"SOO",2,"goal",1,"7:26","EV",0,0,449,164,"SOO","Robert Calisti",NA,NA
+24216,2019-11-09,"FLNT",3,"SOO",2,"goal",2,"16:54","EV",0,0,639,193,"FLNT","Cody Morgan",NA,NA
+24216,2019-11-09,"FLNT",3,"SOO",2,"goal",2,"19:31","EV",0,0,162,209,"SOO","Cole MacKay","Jacob LeGuerrier",NA
+24216,2019-11-09,"FLNT",3,"SOO",2,"goal",3,"4:58","PP",1,0,95,229,"FLNT","Ethan Keppen","Dennis Busby","Ty Dellandrea"
+24228,2019-11-13,"FLNT",1,"SAR",5,"goal",1,"2:25","EV",0,0,637,167,"SAR","Anthony Tabak","Brayden Guy","Ty Voit"
+24228,2019-11-13,"FLNT",1,"SAR",5,"goal",1,"18:09","EV",1,0,591,152,"SAR","Kelton Hatcher","Jamieson Rees",NA
+24228,2019-11-13,"FLNT",1,"SAR",5,"goal",2,"8:29","EV",0,0,154,122,"SAR","Jacob Perreault","Joseph Mack",NA
+24228,2019-11-13,"FLNT",1,"SAR",5,"goal",2,"15:39","EV",0,0,635,164,"FLNT","Cody Morgan","Jake Durham","Jack Phibbs"
+24228,2019-11-13,"FLNT",1,"SAR",5,"goal",2,"19:43","EV",0,0,143,133,"SAR","Kelton Hatcher","Sam Bitten","Jamieson Rees"
+24228,2019-11-13,"FLNT",1,"SAR",5,"goal",3,"10:22","EV",0,0,629,157,"SAR","Jacob Perreault","Ryan McGregor","Marko Jakovljevic"
+24237,2019-11-15,"LDN",1,"FLNT",6,"goal",1,"15:56","EV",0,0,221,132,"FLNT","Dennis Busby","Ethan Keppen","Jack Wismer"
+24237,2019-11-15,"LDN",1,"FLNT",6,"goal",2,"1:27","EV",0,0,74,191,"LDN","Alec Regula","Connor McMichael","Jonathan Gruden"
+24237,2019-11-15,"LDN",1,"FLNT",6,"goal",2,"2:42","EV",1,0,585,90,"FLNT","Jack Phibbs",NA,NA
+24237,2019-11-15,"LDN",1,"FLNT",6,"goal",2,"8:07","EV",0,0,616,162,"FLNT","Ty Dellandrea","Ethan Keppen","Connor Roberts"
+24237,2019-11-15,"LDN",1,"FLNT",6,"goal",2,"13:04","EV",0,0,566,320,"FLNT","Jake Durham","Evgeniy Oksentyuk","Owen Lalonde"
+24237,2019-11-15,"LDN",1,"FLNT",6,"goal",3,"7:43","EV",0,0,62,238,"FLNT","Evgeniy Oksentyuk","Jake Durham","Cody Morgan"
+24237,2019-11-15,"LDN",1,"FLNT",6,"goal",3,"13:47","EN",0,0,73,154,"FLNT","Evgeniy Oksentyuk","Jack Wismer",NA
+24243,2019-11-16,"FLNT",2,"OTT",4,"goal",1,"19:47","EV",0,0,540,252,"OTT","Joseph Garreffa","Marco Rossi",NA
+24243,2019-11-16,"FLNT",2,"OTT",4,"goal",2,"8:14","EV",0,0,643,176,"FLNT","Evgeniy Oksentyuk","Dennis Busby","Jake Durham"
+24243,2019-11-16,"FLNT",2,"OTT",4,"goal",3,"4:16","EV",0,0,609,201,"OTT","Kevin Bahl","Joseph Garreffa",NA
+24243,2019-11-16,"FLNT",2,"OTT",4,"goal",3,"6:56","EV",1,0,634,176,"OTT","Joseph Garreffa","Noel Hoefenmayer",NA
+24243,2019-11-16,"FLNT",2,"OTT",4,"goal",3,"13:12","EV",0,0,101,185,"FLNT","Vladislav Kolyachonok","Connor Roberts",NA
+24243,2019-11-16,"FLNT",2,"OTT",4,"goal",3,"17:30","EN",0,0,649,217,"OTT","Joseph Garreffa",NA,NA
+24255,2019-11-20,"SAR",6,"FLNT",4,"goal",1,"10:31","PP",0,0,600,124,"FLNT","Ty Dellandrea","Riley McCourt","Jake Durham"
+24255,2019-11-20,"SAR",6,"FLNT",4,"goal",1,"18:50","PP",0,0,74,186,"SAR","Jamieson Rees","Sean Josling","Eric Hjorth"
+24255,2019-11-20,"SAR",6,"FLNT",4,"goal",2,"11:15","PP",0,0,88,192,"FLNT","Ty Dellandrea","Evgeniy Oksentyuk","Riley McCourt"
+24255,2019-11-20,"SAR",6,"FLNT",4,"goal",2,"12:25","PP",0,0,93,238,"FLNT","Ty Dellandrea","Riley McCourt","Evgeniy Oksentyuk"
+24255,2019-11-20,"SAR",6,"FLNT",4,"goal",2,"13:45","EV",0,0,622,212,"SAR","Jacob Perreault","Ryan Roth","Ryan Mast"
+24255,2019-11-20,"SAR",6,"FLNT",4,"goal",2,"14:39","EV",0,0,575,195,"SAR","Sean Josling","Sam Bitten","Ryan McGregor"
+24255,2019-11-20,"SAR",6,"FLNT",4,"goal",2,"14:49","EV",0,0,599,162,"SAR","Sam Bitten","Ryan McGregor","Sean Josling"
+24255,2019-11-20,"SAR",6,"FLNT",4,"goal",3,"13:51","PP",1,0,74,254,"SAR","Ryan Roth","Jacob Perreault","Ryan McGregor"
+24255,2019-11-20,"SAR",6,"FLNT",4,"goal",3,"17:42","EV",0,0,614,181,"FLNT","Jake Durham","Riley McCourt","Evgeniy Oksentyuk"
+24255,2019-11-20,"SAR",6,"FLNT",4,"goal",3,"19:15","EN",0,0,247,132,"SAR","Sean Josling","Eric Hjorth",NA
+24263,2019-11-22,"FLNT",4,"SOO",3,"goal",1,"2:09","EV",0,0,147,164,"FLNT","Riley McCourt","Jake Durham","Connor Roberts"
+24263,2019-11-22,"FLNT",4,"SOO",3,"goal",1,"4:08","EV",0,0,513,185,"SOO","Jacob Holmes","Billy Constantinou","Jaden Peca"
+24263,2019-11-22,"FLNT",4,"SOO",3,"goal",1,"9:39","PP",0,0,69,132,"FLNT","Ethan Keppen","Jake Durham","Riley McCourt"
+24263,2019-11-22,"FLNT",4,"SOO",3,"goal",2,"0:51","EV",0,0,641,177,"FLNT","Jack Wismer","Evgeniy Oksentyuk","Ty Dellandrea"
+24263,2019-11-22,"FLNT",4,"SOO",3,"goal",2,"10:18","EV",1,0,625,161,"FLNT","Riley McCourt","Jack Wismer",NA
+24263,2019-11-22,"FLNT",4,"SOO",3,"goal",2,"12:30","EV",0,0,64,177,"SOO","Jaromir Pytlik","Zack Trott",NA
+24263,2019-11-22,"FLNT",4,"SOO",3,"goal",2,"16:51","EV",0,0,90,211,"SOO","Tye Kartye","Jacob LeGuerrier","Jaromir Pytlik"
+24270,2019-11-23,"FLNT",5,"OS",4,"goal",1,"8:28","EV",0,0,461,307,"OS","Brady Lyle","Joshua Samanski",NA
+24270,2019-11-23,"FLNT",5,"OS",4,"goal",1,"18:16","EV",0,0,602,153,"OS","Matthew Philip","Ethan Burroughs","Deni Goure"
+24270,2019-11-23,"FLNT",5,"OS",4,"goal",2,"0:11","EV",0,0,123,182,"OS","Sergey Popov","Barret Kirwin",NA
+24270,2019-11-23,"FLNT",5,"OS",4,"goal",2,"2:10","EV",0,0,570,192,"FLNT","Connor Roberts","Brennan Othmann","Tyler Deline"
+24270,2019-11-23,"FLNT",5,"OS",4,"goal",2,"4:36","PP",0,0,648,169,"FLNT","Cody Morgan","Evgeniy Oksentyuk","Anthony Popovich"
+24270,2019-11-23,"FLNT",5,"OS",4,"goal",2,"15:43","EV",0,0,628,192,"FLNT","Vladislav Kolyachonok","Brennan Othmann",NA
+24270,2019-11-23,"FLNT",5,"OS",4,"goal",2,"19:38","EV",0,0,655,194,"FLNT","Evgeniy Oksentyuk","Cody Morgan","Jake Durham"
+24270,2019-11-23,"FLNT",5,"OS",4,"goal",3,"13:16","EV",1,0,162,190,"FLNT","Riley McCourt","Evgeniy Oksentyuk",NA
+24270,2019-11-23,"FLNT",5,"OS",4,"goal",3,"18:12","EV",0,0,567,202,"OS","Barret Kirwin","Sergey Popov","Brady Lyle"
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",1,"5:28","EV",0,0,597,150,"SAG","Dalton Duhart","Camaryn Baber",NA
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",1,"6:24","EV",0,0,47,173,"FLNT","Evgeniy Oksentyuk","Riley McCourt","Ty Dellandrea"
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",1,"10:15","EV",0,0,69,177,"FLNT","Connor Roberts",NA,NA
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",1,"12:59","PP",0,0,542,205,"SAG","Damien Giroux","Mason Millman","Cole Coskey"
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",1,"15:05","EV",0,0,582,161,"SAG","Ilya Solovyov","Josh Bloom","DJ Busdeker"
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",2,"5:20","PP",1,0,112,195,"SAG","Jake Goldowski","Danny Katic","Mason Millman"
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",2,"13:35","EV",0,0,624,174,"FLNT","Emmet Pierce","Ty Dellandrea","Braeden Kressler"
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",2,"17:11","EV",0,0,66,186,"SAG","Davis (T-Bone) Codd","Mason Millman","Camaryn Baber"
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",2,"18:28","EV",0,0,109,155,"SAG","Cole Perfetti",NA,NA
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",3,"10:09","SH",0,0,631,161,"SAG","Cole Perfetti",NA,NA
+24281,2019-11-27,"FLNT",3,"SAG",8,"goal",3,"16:35","EV",0,0,624,194,"SAG","Ethan Cardwell","Cole Perfetti","Ilya Solovyov"
+24296,2019-11-30,"FLNT",1,"LDN",4,"goal",2,"14:13","SH",0,0,57,165,"LDN","Josh Nelson","Alec Regula",NA
+24296,2019-11-30,"FLNT",1,"LDN",4,"goal",3,"14:42","EV",1,0,633,191,"LDN","Antonio Stranges","Sahil Panwar",NA
+24296,2019-11-30,"FLNT",1,"LDN",4,"goal",3,"17:03","EV",0,0,644,183,"LDN","Jonathan Gruden","Connor McMichael","Liam Foudy"
+24296,2019-11-30,"FLNT",1,"LDN",4,"goal",3,"18:38","EV",0,0,610,204,"LDN","Antonio Stranges","Kirill Steklov",NA
+24296,2019-11-30,"FLNT",1,"LDN",4,"goal",3,"19:34","EV",0,0,73,189,"FLNT","Connor Roberts","Cody Morgan","Evgeniy Oksentyuk"
+24301,2019-12-01,"FLNT",5,"SAR",3,"goal",1,"13:06","EV",0,0,624,182,"SAR","Sam Bitten","Ryan Roth","Jamieson Rees"
+24301,2019-12-01,"FLNT",5,"SAR",3,"goal",2,"5:49","PP",0,0,96,129,"SAR","Jacob Perreault","Jamieson Rees","Ryan McGregor"
+24301,2019-12-01,"FLNT",5,"SAR",3,"goal",2,"9:04","EV",0,0,606,184,"FLNT","Connor Roberts","Dennis Busby","Jake Durham"
+24301,2019-12-01,"FLNT",5,"SAR",3,"goal",2,"14:44","EV",0,0,486,283,"FLNT","Vladislav Kolyachonok","Emmet Pierce","Brennan Othmann"
+24301,2019-12-01,"FLNT",5,"SAR",3,"goal",3,"7:55","EV",0,0,232,88,"FLNT","Vladislav Kolyachonok","Brennan Othmann","Riley McCourt"
+24301,2019-12-01,"FLNT",5,"SAR",3,"goal",3,"14:33","PP",1,0,178,163,"FLNT","Jake Durham","Evgeniy Oksentyuk",NA
+24301,2019-12-01,"FLNT",5,"SAR",3,"goal",3,"17:58","PP",0,0,646,150,"SAR","Jacob Perreault","Sean Josling",NA
+24301,2019-12-01,"FLNT",5,"SAR",3,"goal",3,"19:51","EN",0,0,54,178,"FLNT","Jack Phibbs","Connor Roberts","Vladislav Kolyachonok"
+24308,2019-12-05,"BAR",2,"FLNT",5,"goal",1,"4:57","EV",0,0,621,43,"FLNT","Jack Phibbs","Emmet Pierce","Zacharie Giroux"
+24308,2019-12-05,"BAR",2,"FLNT",5,"goal",1,"13:25","EV",0,0,606,177,"FLNT","Ty Dellandrea","Cody Morgan","Dennis Busby"
+24308,2019-12-05,"BAR",2,"FLNT",5,"goal",1,"15:51","PP",1,0,567,287,"FLNT","Ty Dellandrea","Riley McCourt","Cody Morgan"
+24308,2019-12-05,"BAR",2,"FLNT",5,"goal",2,"10:17","EV",0,0,616,137,"BAR","Matej Pekar","Trey Zagrzebski",NA
+24308,2019-12-05,"BAR",2,"FLNT",5,"goal",2,"14:15","EV",0,0,91,214,"FLNT","Cody Morgan","Jack Wismer","Ty Dellandrea"
+24308,2019-12-05,"BAR",2,"FLNT",5,"goal",2,"17:18","EV",0,0,618,199,"BAR","Tyson Foerster","Aidan Brown","Jack York"
+24308,2019-12-05,"BAR",2,"FLNT",5,"goal",3,"18:31","EN",0,0,622,179,"FLNT","Ty Dellandrea","Cody Morgan","Jack Wismer"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",1,"4:04","EV",0,0,636,156,"SBY","Blake Murray","Owen Robinson","Quinton Byfield"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",1,"8:10","EV",0,0,647,211,"SBY","Owen Robinson","Quinton Byfield","Isaak Phillips"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",1,"14:41","EV",0,0,84,197,"FLNT","Owen Lalonde","Jack Wismer","Ty Dellandrea"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",1,"15:44","EV",0,0,542,132,"SBY","David Levin","Blake Murray","Emmett Serensits"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",1,"16:08","PP",0,0,601,290,"SBY","David Levin","Quinton Byfield","Kalle Loponen"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",2,"12:26","EV",0,0,100,116,"SBY","Landon McCallum","Emmett Serensits","Quinton Byfield"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",2,"15:15","EV",0,0,508,208,"FLNT","Ty Dellandrea","Jack Wismer","Jack Harper"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",2,"16:20","PP",0,0,512,70,"FLNT","Connor Roberts","Ty Dellandrea",NA
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",3,"5:24","EV",1,0,643,144,"SBY","Chase Stillman","David Levin","Shane Bulitka"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",3,"11:32","EV",0,0,65,136,"FLNT","Riley McCourt","Emmet Pierce","Zacharie Giroux"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",3,"15:09","EV",0,0,62,164,"FLNT","Cody Morgan","Jack Wismer","Dennis Busby"
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",3,"18:29","EN.SH",0,0,618,183,"SBY","Macauley Carson","Shane Bulitka",NA
+24319,2019-12-06,"SBY",8,"FLNT",5,"goal",3,"18:58","EN.SH",0,0,652,165,"SBY","Quinton Byfield","Shane Bulitka","Liam Ross"
+24329,2019-12-08,"NB",3,"FLNT",5,"goal",1,"7:03","EV",0,0,55,143,"FLNT","Zacharie Giroux",NA,NA
+24329,2019-12-08,"NB",3,"FLNT",5,"goal",1,"18:30","EV",0,0,624,276,"NB","Brandon Coe","Brad Chenier","Luke Moncada"
+24329,2019-12-08,"NB",3,"FLNT",5,"goal",2,"1:32","EV",0,0,74,139,"NB","Brandon Coe","Luke Moncada","Braden Henderson"
+24329,2019-12-08,"NB",3,"FLNT",5,"goal",2,"7:50","PP",0,0,545,84,"FLNT","Ty Dellandrea","Cody Morgan","Riley McCourt"
+24329,2019-12-08,"NB",3,"FLNT",5,"goal",2,"15:12","EV",0,0,628,202,"FLNT","Ethan Keppen","Ty Dellandrea","Jack Wismer"
+24329,2019-12-08,"NB",3,"FLNT",5,"goal",3,"5:50","EV",1,0,46,215,"FLNT","Ty Dellandrea","Jack Wismer","Cody Morgan"
+24329,2019-12-08,"NB",3,"FLNT",5,"goal",3,"10:34","EV",0,0,649,146,"NB","Luke Moncada","Brad Chenier","James Mayotte"
+24329,2019-12-08,"NB",3,"FLNT",5,"goal",3,"17:41","PP",0,0,71,161,"FLNT","Jake Durham","Cody Morgan","Ty Dellandrea"
+24339,2019-12-13,"FLNT",4,"SAG",5,"goal",1,"0:53","EV",0,0,645,209,"SAG","Damien Giroux","Danny Katic","DJ Busdeker"
+24339,2019-12-13,"FLNT",4,"SAG",5,"goal",1,"2:30","EV",0,0,643,160,"SAG","Camaryn Baber",NA,NA
+24339,2019-12-13,"FLNT",4,"SAG",5,"goal",1,"5:04","PP",0,0,69,173,"FLNT","Ethan Keppen","Dennis Busby","Owen Lalonde"
+24339,2019-12-13,"FLNT",4,"SAG",5,"goal",1,"9:40","PP",0,0,593,240,"SAG","Cole Perfetti","DJ Busdeker","Damien Giroux"
+24339,2019-12-13,"FLNT",4,"SAG",5,"goal",1,"19:56","EV",0,0,90,127,"FLNT","Brennan Othmann","Connor Roberts",NA
+24339,2019-12-13,"FLNT",4,"SAG",5,"goal",2,"12:25","EV",0,0,66,127,"SAG","Danny Katic","Cole Coskey",NA
+24339,2019-12-13,"FLNT",4,"SAG",5,"goal",2,"15:15","EV",0,0,647,156,"FLNT","Jake Durham","Connor Roberts","Brennan Othmann"
+24339,2019-12-13,"FLNT",4,"SAG",5,"goal",2,"17:52","EV",0,0,635,194,"FLNT","Jack Phibbs","Brennan Othmann",NA
+24339,2019-12-13,"FLNT",4,"SAG",5,"goal",3,"19:22","EV",1,0,630,199,"SAG","Cole Coskey","Cole Perfetti",NA
+24352,2019-12-14,"SAG",5,"FLNT",3,"goal",1,"8:31","EV",0,0,600,175,"FLNT","Ethan Keppen","Jack Wismer","Riley McCourt"
+24352,2019-12-14,"SAG",5,"FLNT",3,"goal",1,"10:13","EV",0,0,113,310,"SAG","Cole Perfetti","Reilly Webb","Damien Giroux"
+24352,2019-12-14,"SAG",5,"FLNT",3,"goal",1,"15:55","EV",0,0,72,152,"SAG","Cole Perfetti","Mitchell Smith","Reilly Webb"
+24352,2019-12-14,"SAG",5,"FLNT",3,"goal",2,"13:28","PP",0,0,123,258,"FLNT","Cody Morgan","Riley McCourt","Jake Durham"
+24352,2019-12-14,"SAG",5,"FLNT",3,"goal",2,"14:26","EV",0,0,660,198,"SAG","DJ Busdeker","Ethan Cardwell","Danny Katic"
+24352,2019-12-14,"SAG",5,"FLNT",3,"goal",3,"4:28","EV",0,0,646,151,"FLNT","Brennan Othmann","Riley McCourt","Connor Roberts"
+24352,2019-12-14,"SAG",5,"FLNT",3,"goal",3,"16:23","EV",1,0,117,129,"SAG","Cole Coskey","Mitchell Smith","Danil Antropov"
+24352,2019-12-14,"SAG",5,"FLNT",3,"goal",3,"18:52","EN",0,0,145,167,"SAG","Damien Giroux",NA,NA
+24375,2019-12-28,"FLNT",4,"SAR",1,"goal",1,"4:56","EV",0,0,98,116,"FLNT","Evgeniy Oksentyuk","Jake Durham","Riley McCourt"
+24375,2019-12-28,"FLNT",4,"SAR",1,"goal",1,"12:58","EV",1,0,59,191,"FLNT","Jack Wismer","Ethan Keppen","Dennis Busby"
+24375,2019-12-28,"FLNT",4,"SAR",1,"goal",1,"18:47","EV",0,0,77,142,"FLNT","Brennan Othmann","Emmet Pierce","Owen Lalonde"
+24375,2019-12-28,"FLNT",4,"SAR",1,"goal",2,"17:13","SH",0,0,602,220,"FLNT","Jack Wismer","Ethan Keppen","Riley McCourt"
+24375,2019-12-28,"FLNT",4,"SAR",1,"goal",2,"19:41","EV",0,0,65,206,"SAR","Brayden Guy","Nolan Dillingham","Ty Voit"
+24383,2019-12-29,"FLNT",2,"WSR",5,"goal",1,"10:14","EV",0,0,632,210,"WSR","Connor Corcoran","Jean-Luc Foudy",NA
+24383,2019-12-29,"FLNT",2,"WSR",5,"goal",1,"12:14","PP",0,0,108,125,"FLNT","Evgeniy Oksentyuk","Riley McCourt","Jake Durham"
+24383,2019-12-29,"FLNT",2,"WSR",5,"goal",1,"15:07","EV",0,0,650,198,"WSR","Cole Purboo","Thomas Stevenson","Connor Corcoran"
+24383,2019-12-29,"FLNT",2,"WSR",5,"goal",2,"15:57","EV",1,0,63,220,"WSR","Kyle McDonald","Connor Corcoran","Pasquale Zito"
+24383,2019-12-29,"FLNT",2,"WSR",5,"goal",3,"3:25","EV",0,0,217,168,"FLNT","Dennis Busby","Evgeniy Oksentyuk","Riley McCourt"
+24383,2019-12-29,"FLNT",2,"WSR",5,"goal",3,"8:25","EV",0,0,570,165,"WSR","Wyatt Johnston","Tyler Angle","Egor Afanasyev"
+24383,2019-12-29,"FLNT",2,"WSR",5,"goal",3,"19:52","EN",0,0,614,180,"WSR","Egor Afanasyev","Chris Playfair",NA
+24398,2019-12-31,"WSR",5,"FLNT",2,"goal",1,"7:18","EV",0,0,634,172,"WSR","Cole Purboo","Egor Afanasyev","Louka Henault"
+24398,2019-12-31,"WSR",5,"FLNT",2,"goal",1,"11:40","EV",0,0,558,241,"WSR","Will Cuylle","Tyler Angle","Luke Boka"
+24398,2019-12-31,"WSR",5,"FLNT",2,"goal",1,"16:38","EV",1,0,583,187,"WSR","Curtis Douglas","Wyatt Johnston","Dylan Robinson"
+24398,2019-12-31,"WSR",5,"FLNT",2,"goal",2,"4:52","EV",0,0,603,210,"FLNT","Jack Phibbs","Emmet Pierce","Evgeniy Oksentyuk"
+24398,2019-12-31,"WSR",5,"FLNT",2,"goal",2,"10:39","EV",0,0,64,192,"WSR","Egor Afanasyev","Wyatt Johnston",NA
+24398,2019-12-31,"WSR",5,"FLNT",2,"goal",3,"2:35","EV",0,0,82,60,"FLNT","Cody Morgan","Riley McCourt","Evgeniy Oksentyuk"
+24398,2019-12-31,"WSR",5,"FLNT",2,"goal",3,"18:29","EN",0,0,644,177,"WSR","Tyler Angle","Will Cuylle","Egor Afanasyev"
+24403,2020-01-03,"FLNT",5,"OSH",4,"goal",1,"19:33","EV",0,0,207,221,"FLNT","Riley McCourt","Evgeniy Oksentyuk","Connor Roberts"
+24403,2020-01-03,"FLNT",5,"OSH",4,"goal",1,"19:46","EV",0,0,567,208,"OSH","Brett Harrison","Daniel Michaud","Giovanni Vallati"
+24403,2020-01-03,"FLNT",5,"OSH",4,"goal",2,"5:08","EV",0,0,76,99,"OSH","Ty Tullio","Allan McShane","Giovanni Vallati"
+24403,2020-01-03,"FLNT",5,"OSH",4,"goal",2,"8:31","EV",0,0,579,109,"FLNT","Evgeniy Oksentyuk","Cody Morgan",NA
+24403,2020-01-03,"FLNT",5,"OSH",4,"goal",2,"15:16","EV",0,0,110,192,"OSH","Dawson McKinney","Jacob Winterton",NA
+24403,2020-01-03,"FLNT",5,"OSH",4,"goal",3,"2:26","EV",0,0,51,182,"FLNT","Emmet Pierce","Jack Wismer","Riley McCourt"
+24403,2020-01-03,"FLNT",5,"OSH",4,"goal",3,"6:15","EV",0,0,162,194,"FLNT","Jack Wismer",NA,NA
+24403,2020-01-03,"FLNT",5,"OSH",4,"goal",3,"6:32","EV",0,0,569,127,"OSH","Brett Neumann","Serron Noel",NA
+24403,2020-01-03,"FLNT",5,"OSH",4,"goal",4,"1:27","EV",1,0,115,180,"FLNT","Dennis Busby","Cody Morgan","Evgeniy Oksentyuk"
+24412,2020-01-04,"FLNT",3,"LDN",4,"goal",1,"10:22","EV",0,0,583,143,"LDN","Billy Moskal","Antonio Stranges","Stuart Rolofs"
+24412,2020-01-04,"FLNT",3,"LDN",4,"goal",2,"10:19","EV",0,0,648,193,"FLNT","Connor Roberts","Riley McCourt","Emmet Pierce"
+24412,2020-01-04,"FLNT",3,"LDN",4,"goal",2,"11:22","EV",0,0,480,320,"FLNT","Ethan Keppen","Owen Lalonde","Connor Roberts"
+24412,2020-01-04,"FLNT",3,"LDN",4,"goal",2,"12:27","EV",0,0,635,163,"FLNT","Evgeniy Oksentyuk","Cody Morgan","Vladislav Kolyachonok"
+24412,2020-01-04,"FLNT",3,"LDN",4,"goal",2,"13:18","EV",0,0,162,231,"LDN","Jonathan Gruden","Nathan Dunkley",NA
+24412,2020-01-04,"FLNT",3,"LDN",4,"goal",3,"5:46","EV",0,0,608,223,"LDN","Jonathan Gruden","Luke Evangelista","Ben Roger"
+24412,2020-01-04,"FLNT",3,"LDN",4,"goal",4,"4:06","EV",1,0,643,164,"LDN","Luke Evangelista","Josh Nelson",NA
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",1,"4:00","EV",0,0,609,244,"FLNT","Emmet Pierce","Vladislav Kolyachonok","Owen Lalonde"
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",1,"6:32","EV",0,0,97,109,"SAG","Cole Coskey","Cole Perfetti",NA
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",1,"10:36","EV",0,0,598,115,"FLNT","Riley Piercey","Jack Wismer",NA
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",1,"11:27","EV",0,0,115,127,"SAG","Jake Goldowski","DJ Busdeker","Danil Antropov"
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",2,"6:59","EV",0,0,91,115,"FLNT","Evgeniy Oksentyuk","Brennan Othmann","Owen Lalonde"
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",2,"7:39","EV",0,0,523,31,"SAG","Mason Millman","Danny Katic","Danil Antropov"
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",2,"13:19","EV",0,0,224,78,"FLNT","Riley Piercey","Jake Durham","Tyler Deline"
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",2,"18:53","EV",0,0,608,256,"SAG","DJ Busdeker",NA,NA
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",3,"7:20","PP",0,0,569,287,"FLNT","Evgeniy Oksentyuk","Vladislav Kolyachonok","Jack Wismer"
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",3,"12:34","EV",1,0,566,195,"FLNT","Connor Roberts","Jake Durham",NA
+24425,2020-01-08,"SAG",5,"FLNT",6,"goal",3,"15:44","PP",0,0,114,190,"SAG","Danny Katic","Mason Millman","Cole Coskey"
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",1,"14:21","SH",0,0,620,141,"SAG","Damien Giroux","Ilya Solovyov",NA
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",1,"17:04","EV",0,0,566,283,"SAG","Jake Goldowski","Danil Antropov","Danny Katic"
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",1,"19:21","PP",0,0,65,195,"FLNT","Jack Wismer","Ty Dellandrea","Riley McCourt"
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",2,"3:31","EV",0,0,121,217,"SAG","Damien Giroux","Ryan Suzuki",NA
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",2,"4:17","EV",0,0,655,199,"FLNT","Ethan Keppen","Riley Piercey","Brennan Othmann"
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",2,"7:47","PP",0,0,595,118,"FLNT","Jack Wismer","Evgeniy Oksentyuk","Tyler Tucker"
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",2,"10:51","EV",0,0,99,136,"SAG","Cole Coskey","Cole Perfetti",NA
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",2,"16:48","EV",1,0,166,134,"SAG","Cole Coskey","Ryan Suzuki","Cole Perfetti"
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",3,"5:45","EV",0,0,597,243,"SAG","Davis Codd","Blade Jenkins","Damien Giroux"
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",3,"15:40","EV",0,0,115,248,"FLNT","Vladislav Kolyachonok","Evgeniy Oksentyuk","Ty Dellandrea"
+24431,2020-01-10,"FLNT",4,"SAG",7,"goal",3,"17:37","EN",0,0,306,35,"SAG","Danny Katic",NA,NA
+24441,2020-01-11,"FLNT",4,"WSR",3,"goal",1,"12:49","EV",0,0,50,190,"FLNT","Evgeniy Oksentyuk","Ty Dellandrea","Jack Wismer"
+24441,2020-01-11,"FLNT",4,"WSR",3,"goal",1,"15:31","EV",0,0,596,154,"WSR","Luke Boka","Will Cuylle","Connor Corcoran"
+24441,2020-01-11,"FLNT",4,"WSR",3,"goal",1,"18:26","EV",0,0,94,170,"FLNT","Cody Morgan",NA,NA
+24441,2020-01-11,"FLNT",4,"WSR",3,"goal",2,"2:37","EV",0,0,649,184,"FLNT","Jake Durham","Riley McCourt","Cody Morgan"
+24441,2020-01-11,"FLNT",4,"WSR",3,"goal",2,"13:48","EV",0,0,71,178,"WSR","Jean-Luc Foudy",NA,NA
+24441,2020-01-11,"FLNT",4,"WSR",3,"goal",3,"7:49","EV",0,0,565,130,"WSR","Connor Corcoran","Jean-Luc Foudy","Louka Henault"
+24441,2020-01-11,"FLNT",4,"WSR",3,"goal",4,"3:05","SH",1,0,61,174,"FLNT","Ty Dellandrea",NA,NA
+24459,2020-01-17,"OTT",5,"FLNT",4,"goal",1,"17:53","EV",0,0,613,182,"FLNT","Brennan Othmann","Vladislav Kolyachonok","Cody Morgan"
+24459,2020-01-17,"OTT",5,"FLNT",4,"goal",2,"0:32","EV",0,0,515,275,"OTT","Mitchell Hoelscher",NA,NA
+24459,2020-01-17,"OTT",5,"FLNT",4,"goal",2,"7:59","PP",0,0,608,168,"OTT","Jack Quinn","Joseph Garreffa",NA
+24459,2020-01-17,"OTT",5,"FLNT",4,"goal",2,"11:13","EV",0,0,643,145,"OTT","Marco Rossi","Joseph Garreffa",NA
+24459,2020-01-17,"OTT",5,"FLNT",4,"goal",2,"15:21","EV",0,0,47,216,"FLNT","Braeden Kressler","Riley McCourt","Jack Phibbs"
+24459,2020-01-17,"OTT",5,"FLNT",4,"goal",2,"17:00","EV",0,0,50,205,"FLNT","Evgeniy Oksentyuk","Ty Dellandrea",NA
+24459,2020-01-17,"OTT",5,"FLNT",4,"goal",3,"14:57","PP",0,0,47,142,"OTT","Joseph Garreffa","Jack Quinn","Noel Hoefenmayer"
+24459,2020-01-17,"OTT",5,"FLNT",4,"goal",3,"18:33","PP",0,0,519,59,"FLNT","Jake Durham","Tyler Tucker",NA
+24467,2020-01-18,"PBO",2,"FLNT",0,"goal",1,"8:58","EV",1,0,611,110,"PBO","Nick Robertson","Semyon Der-Arguchintsev","Akil Thomas"
+24467,2020-01-18,"PBO",2,"FLNT",0,"goal",1,"13:36","EV",0,0,652,255,"PBO","Semyon Der-Arguchintsev","Akil Thomas",NA
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",1,"12:29","PP",0,0,121,108,"FLNT","Riley McCourt","Ty Dellandrea",NA
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",1,"16:24","EV",0,0,126,190,"FLNT","Jake Durham","Dennis Busby","Riley Piercey"
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",2,"1:38","EV",0,0,59,179,"KGN","Shane Wright","Martin Chromiak","Zayde Wisdom"
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",2,"4:21","EV",0,0,91,203,"KGN","Martin Chromiak","Shane Wright",NA
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",2,"10:37","EV",0,0,84,146,"KGN","Francesco Arcuri","Lucas Rowe","Braden Haché"
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",2,"14:12","EV",0,0,119,217,"KGN","Kallaway Mercer","Francesco Arcuri",NA
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",2,"15:29","EV",0,0,627,180,"FLNT","Ty Dellandrea","Jake Durham",NA
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",2,"19:44","EV",0,0,617,189,"FLNT","Ty Dellandrea","Jake Durham","Owen Lalonde"
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",3,"3:22","PP",0,0,78,192,"FLNT","Ethan Keppen","Cody Morgan",NA
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",3,"7:09","EV",1,0,96,161,"FLNT","Tyler Tucker","Ty Dellandrea","Riley Piercey"
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",3,"7:46","EV",0,0,93,194,"FLNT","Ethan Keppen","Cody Morgan","Dennis Busby"
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",3,"10:19","EV",0,0,531,171,"KGN","Jakob Brahaney","Vitali Pinchuk","Dustin Hutton"
+24471,2020-01-19,"KGN",5,"FLNT",8,"goal",3,"15:15","EV",0,0,131,117,"FLNT","Riley Piercey","Jake Durham","Ty Dellandrea"
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",1,"0:19","EV",0,0,621,154,"FLNT","Jake Durham","Riley Piercey","Owen Lalonde"
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",1,"4:15","EV",0,0,619,162,"FLNT","Riley Piercey","Tyler Tucker",NA
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",1,"5:05","EV",0,0,94,247,"SOO","Joe Carroll","Jaden Peca",NA
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",1,"8:13","EV",0,0,551,84,"FLNT","Ty Dellandrea","Jake Durham",NA
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",1,"18:08","EV",0,0,50,207,"SOO","Joe Carroll","Robert Calisti","Billy Constantinou"
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",2,"2:15","EV",0,0,583,308,"SOO","Joe Carroll","Ryan O'Rourke","Jaromir Pytlik"
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",2,"19:30","PS",0,1,NA,NA,"FLNT","Jack Phibbs",NA,NA
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",3,"0:37","EV",1,0,602,164,"FLNT","Ty Dellandrea","Jake Durham","Owen Lalonde"
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",3,"14:36","EV",0,0,50,150,"SOO","Jaromir Pytlik","Ryan O'Rourke","Zack Trott"
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",3,"17:04","EV",0,0,594,98,"FLNT","Riley Piercey","Ty Dellandrea","Vladislav Kolyachonok"
+24477,2020-01-22,"SOO",4,"FLNT",7,"goal",3,"19:02","EN",0,0,316,20,"FLNT","Tyler Tucker","Ty Dellandrea","Riley Piercey"
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",1,"11:19","EV",0,0,70,176,"FLNT","Jack Wismer","Ethan Keppen","Owen Lalonde"
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",1,"16:04","SH",0,0,71,158,"FLNT","Ethan Keppen","Jack Wismer",NA
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",1,"17:06","EV",0,0,48,156,"FLNT","Brennan Othmann",NA,NA
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",2,"2:21","EV",0,0,72,168,"GUE","Cam Hillis","Pavel Gogolev","Eric Uba"
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",2,"5:00","EV",0,0,74,157,"GUE","Eric Uba","Daniil Chayka","Martin Has"
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",2,"11:28","EV",0,0,105,168,"GUE","Andrei Bakanov","Fedor Gordeev","Ben McFarlane"
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",2,"17:55","PP",0,0,143,53,"GUE","Pavel Gogolev","Fedor Gordeev","Cam Hillis"
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",3,"3:17","PP",0,0,621,45,"GUE","Eric Uba","Cam Hillis","Fedor Gordeev"
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",3,"5:24","PP",0,0,51,126,"FLNT","Riley McCourt","Evgeniy Oksentyuk",NA
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",3,"14:32","EV",0,0,68,158,"FLNT","Riley Piercey","Jake Durham","Ty Dellandrea"
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",3,"17:13","EV",1,0,51,199,"FLNT","Ty Dellandrea","Jake Durham","Riley Piercey"
+24484,2020-01-24,"GUE",5,"FLNT",7,"goal",3,"19:17","EN",0,0,88,207,"FLNT","Ty Dellandrea","Jack Phibbs","Jake Durham"
+24492,2020-01-25,"FLNT",4,"GUE",1,"goal",1,"2:57","PP",0,0,76,235,"FLNT","Ty Dellandrea",NA,NA
+24492,2020-01-25,"FLNT",4,"GUE",1,"goal",2,"10:32","EV",1,0,587,175,"FLNT","Evgeniy Oksentyuk","Riley McCourt","Cody Morgan"
+24492,2020-01-25,"FLNT",4,"GUE",1,"goal",3,"5:05","EV",0,0,113,132,"FLNT","Ty Dellandrea","Riley Piercey",NA
+24492,2020-01-25,"FLNT",4,"GUE",1,"goal",3,"7:30","SH",0,0,645,150,"GUE","Ben McFarlane",NA,NA
+24492,2020-01-25,"FLNT",4,"GUE",1,"goal",3,"19:56","EN",0,0,357,344,"FLNT","Connor Roberts","Ty Dellandrea","Riley McCourt"
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",1,"2:03","EV",0,0,62,152,"FLNT","Connor Roberts","Brennan Othmann","Evgeniy Oksentyuk"
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",1,"16:36","EV",0,0,147,197,"FLNT","Quinn Yule","Jack Phibbs","Braeden Kressler"
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",1,"18:49","PP",0,0,65,174,"FLNT","Cody Morgan","Owen Lalonde","Vladislav Kolyachonok"
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",2,"6:33","EV",1,0,580,134,"FLNT","Ty Dellandrea","Vladislav Kolyachonok",NA
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",2,"9:34","PS",0,1,NA,NA,"FLNT","Ty Dellandrea",NA,NA
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",2,"13:51","PP",0,0,641,165,"FLNT","Jack Wismer","Ty Dellandrea","Tyler Tucker"
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",2,"14:59","EV",0,0,69,145,"WSR","Wyatt Johnston","Dylan Robinson","Daniel D'Amico"
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",2,"18:33","EV",0,0,75,161,"WSR","Tyler Angle","Ruben Rafkin","Daniel D'Amico"
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",3,"2:03","EV",0,0,603,159,"WSR","Curtis Douglas","Luke Boka",NA
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",3,"6:33","EV",0,0,169,134,"FLNT","Braeden Kressler","Jack Phibbs",NA
+24508,2020-01-30,"WSR",3,"FLNT",8,"goal",3,"18:06","EV",0,0,75,207,"FLNT","Jack Wismer","Ethan Keppen","Tyler Tucker"
+24509,2020-01-31,"FLNT",4,"ER",3,"goal",2,"1:19","EV",0,0,486,48,"FLNT","Riley McCourt","Ethan Keppen","Cody Morgan"
+24509,2020-01-31,"FLNT",4,"ER",3,"goal",2,"10:13","EV",0,0,612,165,"FLNT","Riley McCourt","Connor Roberts","Anthony Popovich"
+24509,2020-01-31,"FLNT",4,"ER",3,"goal",2,"19:31","SH",0,0,92,168,"ER","Daniel D'Amato","Maxim Golod","Jacob Golden"
+24509,2020-01-31,"FLNT",4,"ER",3,"goal",3,"4:24","EV",0,0,523,283,"ER","Austen Swankler","Jamie Drysdale","Jack Duff"
+24509,2020-01-31,"FLNT",4,"ER",3,"goal",3,"15:03","EV",0,0,116,180,"FLNT","Brennan Othmann","Dennis Busby","Evgeniy Oksentyuk"
+24509,2020-01-31,"FLNT",4,"ER",3,"goal",3,"18:38","EV",0,0,639,167,"ER","Maxim Golod","Austen Swankler","Jacob Golden"
+24509,2020-01-31,"FLNT",4,"ER",3,"goal",4,"3:57","EV",1,0,99,136,"FLNT","Riley McCourt","Jake Durham","Cody Morgan"
+24520,2020-02-01,"FLNT",5,"KIT",3,"goal",1,"7:42","EV",0,0,155,93,"FLNT","Tyler Tucker","Braeden Kressler","Jack Phibbs"
+24520,2020-02-01,"FLNT",5,"KIT",3,"goal",2,"6:34","EV",0,0,643,182,"FLNT","Jack Wismer","Dennis Busby","Evgeniy Oksentyuk"
+24520,2020-02-01,"FLNT",5,"KIT",3,"goal",2,"10:10","EV",0,0,69,142,"KIT","Axel Bergkvist","Riley Damiani",NA
+24520,2020-02-01,"FLNT",5,"KIT",3,"goal",2,"10:35","EV",0,0,629,202,"FLNT","Jack Wismer","Cody Morgan","Ethan Keppen"
+24520,2020-02-01,"FLNT",5,"KIT",3,"goal",2,"11:09","EV",0,0,87,152,"KIT","Mike Petizian","Michael Vukojevic","Liam Hawel"
+24520,2020-02-01,"FLNT",5,"KIT",3,"goal",2,"15:31","EV",1,0,635,203,"FLNT","Jack Phibbs","Connor Roberts",NA
+24520,2020-02-01,"FLNT",5,"KIT",3,"goal",3,"13:50","PP",0,0,604,226,"KIT","Axel Bergkvist","Riley Damiani","Greg Meireles"
+24520,2020-02-01,"FLNT",5,"KIT",3,"goal",3,"19:59","EN",0,0,325,23,"FLNT","Evgeniy Oksentyuk",NA,NA
+24537,2020-02-07,"ER",4,"FLNT",5,"goal",1,"0:16","EV",0,0,613,151,"ER","Daniel D'Amato","Brendan Sellan",NA
+24537,2020-02-07,"ER",4,"FLNT",5,"goal",1,"11:45","PP",0,0,119,123,"FLNT","Cody Morgan","Vladislav Kolyachonok","Tyler Tucker"
+24537,2020-02-07,"ER",4,"FLNT",5,"goal",2,"9:04","EV",0,0,108,232,"ER","Austen Swankler","Elias Cohen","Drew Hunter"
+24537,2020-02-07,"ER",4,"FLNT",5,"goal",2,"9:22","EV",0,0,606,181,"FLNT","Brennan Othmann","Riley Piercey",NA
+24537,2020-02-07,"ER",4,"FLNT",5,"goal",3,"3:06","EV",0,0,228,297,"FLNT","Vladislav Kolyachonok","Evgeniy Oksentyuk","Emmet Pierce"
+24537,2020-02-07,"ER",4,"FLNT",5,"goal",3,"6:48","SH",0,0,75,167,"FLNT","Ty Dellandrea","Jack Phibbs",NA
+24537,2020-02-07,"ER",4,"FLNT",5,"goal",3,"7:47","PP",0,0,606,156,"ER","Brendan Sellan","Drew Hunter",NA
+24537,2020-02-07,"ER",4,"FLNT",5,"goal",3,"10:27","EV",0,0,625,195,"ER","Maxim Golod","Connor Lockhart",NA
+24537,2020-02-07,"ER",4,"FLNT",5,"goal",4,"0:28","EV",1,0,89,167,"FLNT","Connor Roberts","Vladislav Kolyachonok",NA
+24547,2020-02-08,"HAM",3,"FLNT",7,"goal",1,"12:03","EV",0,0,588,271,"FLNT","Ty Dellandrea",NA,NA
+24547,2020-02-08,"HAM",3,"FLNT",7,"goal",1,"12:52","PP",0,0,60,151,"HAM","Arthur Kaliyev","Isaac Nurse","Jan Mysak"
+24547,2020-02-08,"HAM",3,"FLNT",7,"goal",1,"16:12","EV",0,0,170,261,"HAM","Arthur Kaliyev","Cameron Supryka",NA
+24547,2020-02-08,"HAM",3,"FLNT",7,"goal",1,"19:27","EV",0,0,55,159,"HAM","Bradey Johnson","Liam Van Loon","Payton Vescio"
+24547,2020-02-08,"HAM",3,"FLNT",7,"goal",2,"5:53","EV",0,0,123,160,"FLNT","Quinn Yule","Braeden Kressler","Dennis Busby"
+24547,2020-02-08,"HAM",3,"FLNT",7,"goal",2,"15:36","PP",0,0,67,172,"FLNT","Riley Piercey","Cody Morgan","Vladislav Kolyachonok"
+24547,2020-02-08,"HAM",3,"FLNT",7,"goal",3,"0:51","PP",1,0,629,175,"FLNT","Jack Wismer","Evgeniy Oksentyuk","Ty Dellandrea"
+24547,2020-02-08,"HAM",3,"FLNT",7,"goal",3,"14:42","EV",0,0,634,174,"FLNT","Brennan Othmann","Riley Piercey","Connor Roberts"
+24547,2020-02-08,"HAM",3,"FLNT",7,"goal",3,"17:05","EN",0,0,612,215,"FLNT","Jack Wismer","Evgeniy Oksentyuk",NA
+24547,2020-02-08,"HAM",3,"FLNT",7,"goal",3,"17:43","EV",0,0,618,176,"FLNT","Jack Wismer","Evgeniy Oksentyuk","Riley McCourt"
+24553,2020-02-09,"OSH",3,"FLNT",5,"goal",1,"1:12","EV",0,0,65,156,"FLNT","Evgeniy Oksentyuk","Tyler Tucker","Cody Morgan"
+24553,2020-02-09,"OSH",3,"FLNT",5,"goal",1,"12:16","EV",0,0,87,126,"FLNT","Vladislav Kolyachonok","Evgeniy Oksentyuk","Cody Morgan"
+24553,2020-02-09,"OSH",3,"FLNT",5,"goal",2,"16:57","PP",0,0,492,223,"FLNT","Tyler Tucker","Ty Dellandrea","Evgeniy Oksentyuk"
+24553,2020-02-09,"OSH",3,"FLNT",5,"goal",2,"18:48","EV",1,0,448,167,"FLNT","Tyler Tucker","Brennan Othmann",NA
+24553,2020-02-09,"OSH",3,"FLNT",5,"goal",3,"0:27","EV",0,0,631,218,"OSH","Brett Neumann","Ty Tullio","Philip Tomasino"
+24553,2020-02-09,"OSH",3,"FLNT",5,"goal",3,"12:46","SH",0,0,596,323,"OSH","Philip Tomasino",NA,NA
+24553,2020-02-09,"OSH",3,"FLNT",5,"goal",3,"18:50","EV",0,0,486,297,"OSH","Philip Tomasino","Brett Neumann","Allan McShane"
+24553,2020-02-09,"OSH",3,"FLNT",5,"goal",3,"19:38","EN",0,0,91,139,"FLNT","Evgeniy Oksentyuk","Jack Wismer","Connor Roberts"
+24572,2020-02-14,"SAG",4,"FLNT",5,"goal",1,"4:10","EV",0,0,49,240,"SAG","Cole Perfetti","DJ Busdeker",NA
+24572,2020-02-14,"SAG",4,"FLNT",5,"goal",1,"5:26","EV",0,0,622,138,"FLNT","Jack Wismer","Cody Morgan",NA
+24572,2020-02-14,"SAG",4,"FLNT",5,"goal",1,"7:00","EV",0,0,639,142,"FLNT","Braeden Kressler","Emmet Pierce","Quinn Yule"
+24572,2020-02-14,"SAG",4,"FLNT",5,"goal",2,"13:33","EV",0,0,57,242,"FLNT","Jack Wismer","Cody Morgan",NA
+24572,2020-02-14,"SAG",4,"FLNT",5,"goal",2,"14:24","EV",0,0,556,113,"SAG","Cole Perfetti","Mitchell Smith",NA
+24572,2020-02-14,"SAG",4,"FLNT",5,"goal",2,"17:20","PP",0,0,64,124,"FLNT","Ty Dellandrea","Riley McCourt","Tyler Tucker"
+24572,2020-02-14,"SAG",4,"FLNT",5,"goal",3,"2:29","EV",0,0,210,75,"SAG","Mason Millman","Davis Codd","Dalton Duhart"
+24572,2020-02-14,"SAG",4,"FLNT",5,"goal",3,"18:53","EN",1,0,650,205,"FLNT","Evgeniy Oksentyuk","Jack Wismer","Owen Lalonde"
+24572,2020-02-14,"SAG",4,"FLNT",5,"goal",3,"19:50","EV",0,0,75,193,"SAG","Cole Perfetti","Ryan Suzuki","Cole Coskey"
+24576,2020-02-15,"FLNT",4,"GUE",3,"goal",1,"11:25","EV",0,0,54,153,"FLNT","Jack Phibbs","Emmet Pierce","Dennis Busby"
+24576,2020-02-15,"FLNT",4,"GUE",3,"goal",2,"13:18","EV",0,0,642,177,"FLNT","Quinn Yule","Jack Phibbs","Emmet Pierce"
+24576,2020-02-15,"FLNT",4,"GUE",3,"goal",3,"4:09","EV",0,0,636,170,"GUE","Cam Hillis","Pavel Gogolev",NA
+24576,2020-02-15,"FLNT",4,"GUE",3,"goal",3,"7:01","EV",0,0,622,210,"GUE","Cam Hillis","Eric Uba","Daniil Chayka"
+24576,2020-02-15,"FLNT",4,"GUE",3,"goal",3,"10:24","EV",0,0,656,217,"GUE","Pavel Gogolev","Michael Bianconi","Luka Profaca"
+24576,2020-02-15,"FLNT",4,"GUE",3,"goal",3,"17:16","EV",0,0,95,166,"FLNT","Jack Phibbs","Connor Roberts","Quinn Yule"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",1,"4:00","EV",0,0,592,226,"FLNT","Emmet Pierce","Tyler Tucker","Vladislav Kolyachonok"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",1,"5:31","PP",0,0,104,191,"SAR","Peter Stratis","Ryan Roth",NA
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",1,"6:14","EV",0,0,87,184,"SAR","Nolan Burke","Sam Bitten",NA
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",1,"7:07","EV",0,0,543,185,"FLNT","Tyler Tucker","Brennan Othmann","Connor Roberts"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",1,"9:29","PP",0,0,626,135,"FLNT","Riley McCourt","Jack Wismer","Tyler Tucker"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",1,"11:11","EV",0,0,568,232,"FLNT","Tyler Tucker","Jake Durham","Connor Roberts"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",1,"18:44","SH",0,0,664,219,"FLNT","Jack Phibbs","Tyler Tucker","Quinn Yule"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",2,"7:32","EV",0,0,87,198,"FLNT","Jake Durham","Owen Lalonde","Brennan Othmann"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",2,"10:10","EV",0,0,71,153,"FLNT","Jack Wismer","Tyler Tucker","Riley Piercey"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",2,"11:46","EV",0,0,620,166,"SAR","Ty Voit","Sam Bitten","Nolan Burke"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",2,"12:41","EV",1,0,81,145,"FLNT","Brennan Othmann","Jake Durham",NA
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",2,"16:19","EV",0,0,83,211,"FLNT","Connor Roberts","Riley Piercey","Marcus Gretz"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",2,"16:56","EV",0,0,587,178,"SAR","Jacob Perreault","Jamieson Rees",NA
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",2,"18:14","EV",0,0,90,153,"FLNT","Evgeniy Oksentyuk","Ty Dellandrea","Jack Wismer"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",3,"6:48","EV",0,0,105,148,"SAR","Marko Jakovljevic","Theo Hill","Justin O'Donnell"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",3,"7:06","EV",0,0,106,147,"SAR","Eric Hjorth","Sam Bitten","Ty Voit"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",3,"10:58","EV",0,0,622,199,"FLNT","Cody Morgan","Jack Wismer",NA
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",3,"14:43","EV",0,0,608,231,"FLNT","Evgeniy Oksentyuk","Tyler Tucker","Ty Dellandrea"
+24591,2020-02-17,"SAR",7,"FLNT",12,"goal",3,"19:46","EV",0,0,93,229,"SAR","Theo Hill","Ashton Reesor",NA
+24594,2020-02-20,"NIAG",0,"FLNT",4,"goal",1,"4:22","PP",1,0,93,179,"FLNT","Evgeniy Oksentyuk","Riley McCourt","Tyler Tucker"
+24594,2020-02-20,"NIAG",0,"FLNT",4,"goal",1,"13:46","EV",0,0,82,171,"FLNT","Braeden Kressler","Owen Lalonde","Riley McCourt"
+24594,2020-02-20,"NIAG",0,"FLNT",4,"goal",2,"8:24","PP",0,0,625,197,"FLNT","Evgeniy Oksentyuk","Jack Wismer","Riley McCourt"
+24594,2020-02-20,"NIAG",0,"FLNT",4,"goal",3,"14:45","EV",0,0,104,173,"FLNT","Connor Roberts","Riley Piercey","Dennis Busby"
+24601,2020-02-21,"MISS",3,"FLNT",6,"goal",1,"6:45","PP",0,0,610,138,"FLNT","Riley McCourt","Tyler Tucker","Ty Dellandrea"
+24601,2020-02-21,"MISS",3,"FLNT",6,"goal",1,"11:07","PP",0,0,481,202,"FLNT","Tyler Tucker","Evgeniy Oksentyuk","Riley McCourt"
+24601,2020-02-21,"MISS",3,"FLNT",6,"goal",2,"10:57","EV",0,0,224,249,"FLNT","Marcus Gretz","Evgeniy Oksentyuk","Cody Morgan"
+24601,2020-02-21,"MISS",3,"FLNT",6,"goal",2,"16:52","PP",1,0,59,138,"FLNT","Brennan Othmann","Cody Morgan","Owen Lalonde"
+24601,2020-02-21,"MISS",3,"FLNT",6,"goal",2,"18:13","EV",0,0,623,145,"MISS","Duncan Penman","James Hardie","Liam Ham"
+24601,2020-02-21,"MISS",3,"FLNT",6,"goal",3,"4:42","EV",0,0,83,262,"MISS","William Portokalis","Aidan Prueter",NA
+24601,2020-02-21,"MISS",3,"FLNT",6,"goal",3,"14:40","EV",0,0,47,197,"MISS","Keean Washkurak","James Hardie","Thomas Harley"
+24601,2020-02-21,"MISS",3,"FLNT",6,"goal",3,"17:52","EV",0,0,630,176,"FLNT","Jack Wismer","Jack Phibbs","Quinn Yule"
+24601,2020-02-21,"MISS",3,"FLNT",6,"goal",3,"18:54","EN",0,0,640,171,"FLNT","Jack Wismer","Ty Dellandrea",NA
+24605,2020-02-22,"FLNT",1,"KIT",4,"goal",1,"15:19","EV",0,0,600,225,"KIT","Mike Petizian","Liam Hawel","Arber Xhekaj"
+24605,2020-02-22,"FLNT",1,"KIT",4,"goal",2,"6:20","EV",1,0,79,232,"KIT","Joseph Serpa","Declan McDonnell","Isaac Langdon"
+24605,2020-02-22,"FLNT",1,"KIT",4,"goal",2,"12:37","PP",0,0,617,211,"FLNT","Ty Dellandrea","Riley McCourt","Tyler Tucker"
+24605,2020-02-22,"FLNT",1,"KIT",4,"goal",3,"1:21","SH",0,0,631,195,"KIT","Riley Damiani",NA,NA
+24605,2020-02-22,"FLNT",1,"KIT",4,"goal",3,"12:04","EV",0,0,639,196,"KIT","Mike Petizian","Donovan Sebrango","Francesco Pinelli"
+24619,2020-02-26,"SAR",2,"FLNT",8,"goal",1,"7:32","EV",0,0,583,182,"FLNT","Evgeniy Oksentyuk","Cody Morgan","Dennis Busby"
+24619,2020-02-26,"SAR",2,"FLNT",8,"goal",1,"10:39","EV",0,0,628,169,"FLNT","Jake Durham","Cody Morgan","Owen Lalonde"
+24619,2020-02-26,"SAR",2,"FLNT",8,"goal",1,"11:07","EV",1,0,651,149,"FLNT","Braeden Kressler","Tyler Deline","Emmet Pierce"
+24619,2020-02-26,"SAR",2,"FLNT",8,"goal",1,"19:35","EV",0,0,613,171,"FLNT","Jack Wismer","Cody Morgan","Evgeniy Oksentyuk"
+24619,2020-02-26,"SAR",2,"FLNT",8,"goal",2,"10:24","PP",0,0,64,220,"FLNT","Riley Piercey","Vladislav Kolyachonok","Jake Durham"
+24619,2020-02-26,"SAR",2,"FLNT",8,"goal",2,"16:08","EV",0,0,59,184,"FLNT","Jack Wismer","Cody Morgan","Evgeniy Oksentyuk"
+24619,2020-02-26,"SAR",2,"FLNT",8,"goal",2,"18:48","SH",0,0,95,170,"FLNT","Connor Roberts",NA,NA
+24619,2020-02-26,"SAR",2,"FLNT",8,"goal",3,"7:36","PP",0,0,156,267,"SAR","Theo Hill","Brayden Guy","Ashton Reesor"
+24619,2020-02-26,"SAR",2,"FLNT",8,"goal",3,"9:31","PP",0,0,111,237,"SAR","Sean Josling","Eric Hjorth","Ashton Reesor"
+24619,2020-02-26,"SAR",2,"FLNT",8,"goal",3,"19:29","PP",0,0,554,187,"FLNT","Emmet Pierce","Quinn Yule","Owen Lalonde"
+24623,2020-02-28,"FLNT",6,"HAM",4,"goal",1,"8:11","PP",0,0,578,163,"HAM","Arthur Kaliyev","Tag Bertuzzi",NA
+24623,2020-02-28,"FLNT",6,"HAM",4,"goal",1,"12:05","EV",0,0,580,100,"HAM","Ryan Humphrey","Isaac Nurse","Nathan Staios"
+24623,2020-02-28,"FLNT",6,"HAM",4,"goal",1,"13:22","EV",0,0,58,205,"FLNT","Evgeniy Oksentyuk","Cody Morgan","Jack Wismer"
+24623,2020-02-28,"FLNT",6,"HAM",4,"goal",1,"19:21","PP",0,0,63,208,"FLNT","Jake Durham","Owen Lalonde","Cody Morgan"
+24623,2020-02-28,"FLNT",6,"HAM",4,"goal",2,"3:03","EV",0,0,636,209,"FLNT","Brennan Othmann","Dennis Busby","Riley Piercey"
+24623,2020-02-28,"FLNT",6,"HAM",4,"goal",2,"15:14","PP",0,0,635,217,"FLNT","Brennan Othmann","Jack Wismer","Riley McCourt"
+24623,2020-02-28,"FLNT",6,"HAM",4,"goal",2,"19:33","EV",0,0,244,291,"HAM","Kade Landry","Arthur Kaliyev","Tag Bertuzzi"
+24623,2020-02-28,"FLNT",6,"HAM",4,"goal",2,"19:55","EV",1,0,506,260,"FLNT","Tyler Tucker","Braeden Kressler",NA
+24623,2020-02-28,"FLNT",6,"HAM",4,"goal",3,"3:20","EV",0,0,65,157,"FLNT","Jake Durham","Evgeniy Oksentyuk","Tyler Tucker"
+24623,2020-02-28,"FLNT",6,"HAM",4,"goal",3,"16:09","EV",0,0,620,156,"HAM","Jan Mysak","Arthur Kaliyev","Tag Bertuzzi"
+24632,2020-02-29,"FLNT",1,"KGN",6,"goal",1,"3:32","EV",0,0,623,136,"KGN","Shane Wright","Zayde Wisdom","Martin Chromiak"
+24632,2020-02-29,"FLNT",1,"KGN",6,"goal",1,"5:04","PP",1,0,568,203,"KGN","Shane Wright","Jakob Brahaney","Martin Chromiak"
+24632,2020-02-29,"FLNT",1,"KGN",6,"goal",2,"1:32","EV",0,0,111,232,"KGN","Shane Wright","Zayde Wisdom",NA
+24632,2020-02-29,"FLNT",1,"KGN",6,"goal",2,"10:00","EV",0,0,90,120,"KGN","Vitali Pinchuk","Dustin Hutton","Dawson Baker"
+24632,2020-02-29,"FLNT",1,"KGN",6,"goal",2,"10:55","EV",0,0,112,191,"KGN","Zayde Wisdom","Shane Wright","Martin Chromiak"
+24632,2020-02-29,"FLNT",1,"KGN",6,"goal",2,"16:40","EV",0,0,644,167,"FLNT","Emmet Pierce","Tyler Deline",NA
+24632,2020-02-29,"FLNT",1,"KGN",6,"goal",3,"18:34","EV",0,0,655,214,"KGN","Justin Pringle","Vitali Pinchuk",NA
+24646,2020-03-04,"FLNT",2,"OS",5,"goal",1,"0:58","EV",0,0,580,197,"OS","Brady Lyle","Mack Guzda",NA
+24646,2020-03-04,"FLNT",2,"OS",5,"goal",1,"8:27","EV",0,0,57,187,"FLNT","Jack Wismer","Cody Morgan","Evgeniy Oksentyuk"
+24646,2020-03-04,"FLNT",2,"OS",5,"goal",1,"9:47","EV",0,0,631,160,"OS","Kaleb Pearson","Matthew Struthers","Joshua Samanski"
+24646,2020-03-04,"FLNT",2,"OS",5,"goal",2,"16:50","EV",1,0,59,210,"OS","Kaleb Pearson",NA,NA
+24646,2020-03-04,"FLNT",2,"OS",5,"goal",3,"0:28","EV",0,0,613,170,"OS","Aidan Dudas",NA,NA
+24646,2020-03-04,"FLNT",2,"OS",5,"goal",3,"15:47","PS",0,1,NA,NA,"FLNT","Braeden Kressler",NA,NA
+24646,2020-03-04,"FLNT",2,"OS",5,"goal",3,"19:12","EN",0,0,633,236,"OS","Adam McMaster","Aidan Dudas","Matthew Struthers"
+24658,2020-03-07,"FLNT",4,"WSR",3,"goal",1,"4:09","PP",0,0,554,116,"WSR","Will Cuylle","Jean-Luc Foudy","Louka Henault"
+24658,2020-03-07,"FLNT",4,"WSR",3,"goal",2,"17:01","EV",0,0,643,202,"FLNT","Braeden Kressler","Owen Lalonde",NA
+24658,2020-03-07,"FLNT",4,"WSR",3,"goal",2,"19:48","EV",0,0,592,117,"FLNT","Cody Morgan","Riley McCourt","Evgeniy Oksentyuk"
+24658,2020-03-07,"FLNT",4,"WSR",3,"goal",3,"8:42","PP",0,0,538,246,"WSR","Egor Afanasyev","Connor Corcoran","Cole Purboo"
+24658,2020-03-07,"FLNT",4,"WSR",3,"goal",3,"12:54","EV",0,0,524,261,"WSR","Connor Corcoran","Jean-Luc Foudy",NA
+24658,2020-03-07,"FLNT",4,"WSR",3,"goal",3,"14:24","EV",0,0,102,254,"FLNT","Evgeniy Oksentyuk","Jake Durham","Riley McCourt"
+24658,2020-03-07,"FLNT",4,"WSR",3,"goal",4,"2:52","EV",1,0,70,150,"FLNT","Vladislav Kolyachonok","Evgeniy Oksentyuk",NA
+24673,2020-03-11,"SOO",4,"FLNT",1,"goal",1,"10:52","EV",0,0,173,41,"SOO","Joe Carroll","Rory Kerins","Cole MacKay"
+24673,2020-03-11,"SOO",4,"FLNT",1,"goal",2,"13:19","EV",1,0,618,170,"SOO","Tye Kartye",NA,NA
+24673,2020-03-11,"SOO",4,"FLNT",1,"goal",3,"16:02","PP",0,0,69,168,"SOO","Jaromir Pytlik","Robert Calisti","Billy Constantinou"
+24673,2020-03-11,"SOO",4,"FLNT",1,"goal",3,"17:27","EV",0,0,640,154,"FLNT","Jack Phibbs","Tyler Tucker","Cody Morgan"
+24673,2020-03-11,"SOO",4,"FLNT",1,"goal",3,"19:27","EN.PP",0,0,212,67,"SOO","Robert Calisti","Ryan O'Rourke","Joe Carroll"
